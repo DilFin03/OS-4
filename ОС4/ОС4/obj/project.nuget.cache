@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1RNFRPtu39PEoJAmzIHAi39mMLSq7eo56ShgBJacpN1m4yj1O2pCfZSeK5h2nDM5UUC8YH7I7/AgmMEfIJgkzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zivog\\OneDrive\\Рабочий стол\\ос\\ОС4\\ОС4\\ОС4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zivog\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\zivog\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\zivog\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\zivog\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
